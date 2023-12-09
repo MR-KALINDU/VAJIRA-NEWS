@@ -1,5 +1,5 @@
 {
-    "name": "news-bot",
+    "name": "vajira-news-bot",
     "version": "1.0.0",
     "description": "Multi device whatsapp bot by moxie",
     "main": "index.js",
@@ -8,7 +8,7 @@
           "start": "node index.js  --attach --name moxie", 
           "stop": "node stop moxier" 
     },
-    "author": "nipuna",
+    "author": "vajira",
     "license": "GPL-3.0",
     "dependencies": {
         "@whiskeysockets/baileys": "latest",
