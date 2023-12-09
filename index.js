@@ -72,6 +72,8 @@ ${data.time}
 
 📍 *SL News*
 
+📍 *Owner Number* :- http://wa.me/94766943622                
+
 📰 *Group Link* :- https://chat.whatsapp.com/Lc5Rf0UAmkAFRbjYOnhwy5
 
 ●━━━━━━━━━━━━━━━━━━━━━●`
@@ -87,7 +89,7 @@ ${data.time}
           } 
           else{ 
              await news1.updateOne({ id: '123' }, { newsid : data.id, events:'true'}) 
-             await session.sendMessage("120363204663318641@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
+             await session.sendMessage("120363201733618385@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
           } 
   
      } 
