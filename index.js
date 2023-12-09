@@ -68,11 +68,11 @@ ${data.time}
 
 🗞️ *News From hirunews.lk*
 
-🔗 *Create By Nipuna Rangana*
+🔗 *Create By Vajira Rathnayaka*
 
 📍 *SL News*
 
-📰 *Group Link* :- https://chat.whatsapp.com/D0ywz4bax49AVnBLOZL7sI
+📰 *Group Link* :- https://chat.whatsapp.com/Lc5Rf0UAmkAFRbjYOnhwy5
 
 ●━━━━━━━━━━━━━━━━━━━━━●`
      let newss = await news1.findOne({ id: '123' }) 
