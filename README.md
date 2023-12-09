@@ -6,8 +6,9 @@
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vajirabot1/VAJIRA_NEWS)
 
 ##BIULD PACKS
-heroku/nodejs
 
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+1)      heroku/nodejs
 
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+2)      https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+
+3)      https://github.com/clhuang/heroku-buildpack-webp-binaries.git
