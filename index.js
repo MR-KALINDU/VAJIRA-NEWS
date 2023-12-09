@@ -61,18 +61,20 @@ const request = require('@cypress/request');
      let data = await response.json(); 
 let mg =`*${data.title}* 
 ●━━━━━━━━━━━━━━━━━━━━━●  
-${data.desc} 
+${data.time} 
 ●━━━━━━━━━━━━━━━━━━━━━● 
-${data.time}
+${data.desc}
 ●━━━━━━━━━━━━━━━━━━━━━●
 
 🗞️ *News From hirunews.lk*
 
-🔗 *Create By ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ*
-
 📍 *SL News*
 
+👤 *Owner No* :- http://wa.me/94707570645
+
 📰 *Group Link* :- https://chat.whatsapp.com/ECcDo6SuJbn0xb9gNLzrYP
+
+🔗 *Create By ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ*
 
 ●━━━━━━━━━━━━━━━━━━━━━●`
      let newss = await news1.findOne({ id: '123' }) 
