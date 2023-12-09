@@ -7,8 +7,8 @@
 
 ##BIULD PACKS
 
-1)    heroku/nodejs
+1)     heroku/nodejs
 
-2)    https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+2)     https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
-3)    https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+3)     https://github.com/clhuang/heroku-buildpack-webp-binaries.git
