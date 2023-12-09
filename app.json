@@ -1,8 +1,8 @@
   {
- "name": "Blue-Lion-QR ",  
+ "name": "King-Vajira-QR ",  
     "description": "whatsapp md bot build with nodejs",  
     "repository": "https://github.com/nipuna15/Blue-Lion-QR",  
-    "logo": "https://raw.githubusercontent.com/nipuna15/nipuna15/main/IMG-20230613-WA0008.jpg",  
+    "logo": "https://telegra.ph/file/09ab24679fb3a297a8905.jpg",  
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],  
     "buildpacks": [  
       {  
