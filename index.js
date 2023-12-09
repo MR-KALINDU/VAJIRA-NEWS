@@ -68,18 +68,18 @@ ${data.time}
 
 🗞️ *News From hirunews.lk*
 
-🔗 *Create By Nipuna Rangana*
+🔗 *Create By ᴠᴀᴊɪʀᴀ ʀᴀᴛʜɴᴀʏᴀᴋᴀ*
 
 📍 *SL News*
 
-📰 *Group Link* :- https://chat.whatsapp.com/D0ywz4bax49AVnBLOZL7sI
+📰 *Group Link* :- https://chat.whatsapp.com/ECcDo6SuJbn0xb9gNLzrYP
 
 ●━━━━━━━━━━━━━━━━━━━━━●`
      let newss = await news1.findOne({ id: '123' }) 
   
      if (!newss) { 
          await new news1({ id: '123', newsid: data.id, events:'true' }).save() 
-           await session.sendMessage("120363175053901301@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
+           await session.sendMessage("120363188209325112@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
      } else { 
          if(newss.newsid == data.id )  
           { 
@@ -87,7 +87,7 @@ ${data.time}
           } 
           else{ 
              await news1.updateOne({ id: '123' }, { newsid : data.id, events:'true'}) 
-             await session.sendMessage("120363175053901301@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
+             await session.sendMessage("120363188209325112@g.us",{image:{url: data.image}, caption:mg},{ ephemeralExpiration: WA_DEFAULT_EPHEMERAL })
           } 
   
      } 
